@@ -1,16 +1,10 @@
 # Real-Time Chat Application
 This is a real-time chat application built using Node.js, Express, and Socket.io. The application allows users to join chat rooms, communicate with each other in real-time, and share messages within the same room. Each user has a unique display name, and they can choose to join an existing room or create a new one.
 
-# Features
-User-friendly join page where users can enter their display name and choose a room to join.
-Real-time updates of room information and member names on the left sidebar.
-All users in the same room can see and interact with each other's messages.
-Share your locationw with each other in the same room.
-
 # Technologies Used
-Node.js: A JavaScript runtime environment that enables server-side development.
-Express: A web application framework for Node.js that simplifies the creation of server-side applications.
-Socket.io: A JavaScript library that enables real-time, bidirectional communication between web clients and servers.
+1. Node.js: A JavaScript runtime environment that enables server-side development.
+2. Express: A web application framework for Node.js that simplifies the creation of server-side applications.
+3. Socket.io: A JavaScript library that enables real-time, bidirectional communication between web clients and servers.
 
 # Usage
 1. Visit the application in your web browser.
