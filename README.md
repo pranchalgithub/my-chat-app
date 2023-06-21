@@ -1,11 +1,11 @@
 # Real-Time Chat Application 
-Link to app : https://real-time-chat-app-m6z8.onrender.com/
-This is a real-time chat application built using Node.js, Express, and Socket.io. The application allows users to join chat rooms, communicate with each other in real-time, and share messages within the same room. Each user has a unique display name, and they can choose to join an existing room or create a new one.
+- [Click here to visit the app!](https://real-time-chat-app-m6z8.onrender.com/)
+- This is a real-time chat application built using Node.js, Express, and Socket.io. The application allows users to join chat rooms, communicate with each other in real-time, and share messages within the same room. Each user has a unique display name, and they can choose to join an existing room or create a new one.
 
 # Technologies Used
-1. Node.js: A JavaScript runtime environment that enables server-side development.
-2. Express: A web application framework for Node.js that simplifies the creation of server-side applications.
-3. Socket.io: A JavaScript library that enables real-time, bidirectional communication between web clients and servers.
+- Node.js: A JavaScript runtime environment that enables server-side development.
+- Express: A web application framework for Node.js that simplifies the creation of server-side applications.
+- Socket.io: A JavaScript library that enables real-time, bidirectional communication between web clients and servers.
 
 # Usage
 1. Visit the application in your web browser.
